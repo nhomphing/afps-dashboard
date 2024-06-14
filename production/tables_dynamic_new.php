@@ -1,3 +1,8 @@
+<?php
+  include('connection.php');
+  phpinfo();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -36,7 +41,7 @@
         <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
-              <a href="plain_page_new.html" class="site_title"><i class="fa fa-paw"></i> <span>Gentelella Alela!</span></a>
+              <a href="plain_page_new.html" class="site_title"><i class="fa fa-paw"></i> <span>AFPS Dashboard!</span></a>
             </div>
 
             <div class="clearfix"></div>
